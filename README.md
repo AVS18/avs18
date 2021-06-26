@@ -8,6 +8,4 @@
 - 😄 Pronouns: He/Him
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS18&repo=github-readme-stats)]
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avs18&layout=compact&theme=radical" />
