@@ -6,6 +6,8 @@
 - 💬 Ask me about Django, MERN and Deep Learning
 - 📫 How to reach me: avsadityavardhan@gmail.com
 - 😄 Pronouns: He/Him
-<a href="https://github.com/sabesansathananthan"></a>
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avs18&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avs18&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avs18&layout=compact&theme=radical" />
