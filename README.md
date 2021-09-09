@@ -8,6 +8,4 @@
 - 😄 Pronouns: He/Him
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avs18&layout=compact&theme=radical" />
-
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=avs18&show_icons=true&theme=radical)
